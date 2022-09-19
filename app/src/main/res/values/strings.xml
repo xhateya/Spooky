@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Spooky</string>
+    <string name="Spooky_Title">Spooky Title</string>
+    <string name="Review">Review</string>
+    <string name="thumbnail_picture">Thumbnail Picture</string>
+    <string name="Spooky_Review">Spooky Review</string>
+    <string name="Spooky_Stories">Spooky Stories</string>
+    <string name="spookiez_profile">Spookiez Profile</string>
+    <string name="nabila_ateya_nasayu_salim">Nabila Ateya Nasayu Salim</string>
+    <string name="natheya36_gmail_com">natheya36@gmail.com</string>
+    <string name="User">User</string>
+</resources>

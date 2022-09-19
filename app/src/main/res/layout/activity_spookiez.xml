@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bekron"
+    tools:context=".ui.SpookiezActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/spookiez_profile"
+            android:layout_width="230dp"
+            android:layout_height="230dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="30sp"
+            android:src="@drawable/pp" />
+
+        <TextView
+            android:id="@+id/user"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:gravity="center"
+            android:paddingTop="15dp"
+            android:text="@string/nabila_ateya_nasayu_salim"
+            android:textColor="@color/white"
+            android:textSize="25sp"
+            android:textStyle="bold|italic">
+
+        </TextView>
+
+        <TextView
+
+            android:id="@+id/email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:gravity="center"
+            android:paddingTop="5dp"
+            android:text="@string/natheya36_gmail_com"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="normal">
+
+        </TextView>
+    </LinearLayout>
+
+</LinearLayout>
